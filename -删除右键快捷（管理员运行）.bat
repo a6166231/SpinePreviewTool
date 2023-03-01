@@ -1,0 +1,1 @@
+reg delete "HKEY_CLASSES_ROOT\SystemFileAssociations\.json\shell\www" /f
